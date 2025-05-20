@@ -19,7 +19,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
     let totalreg = Object.keys(global.db.data.users).length
     let rtotalreg = Object.values(global.db.data.users).filter(user => user.registered == true).length
 
-        await m.react('🌹')
+        await m.react('🕜')
         let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
         let perfil = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://files.catbox.moe/ninsr8.jpg')
 
@@ -249,74 +249,74 @@ ${readMore}
 ⏤͟͟͞͞𓅨⇨ ${xfun}˚ ${usedPrefix}personalidad
 
 𓂂𓏸  𐅹੭੭   *\`𝖩𝗎ᧉ𝗀ᨣ𝗌\`*  ${xgame} ᩚ꤬ᰨᰍ
-ര ׄ ${xgame}˚ ${usedPrefix}pregunta *texto*
-ര ׄ ${xgame}˚ ${usedPrefix}ttt *texto*
-ര ׄ ${xgame}˚ ${usedPrefix}ptt *opción*
-ര ׄ ${xgame}˚ ${usedPrefix}delttt
-ര ׄ ${xgame}˚ ${usedPrefix}acertijo
-ര ׄ ${xgame}˚ ${usedPrefix}trivia
+⏤͟͟͞͞𓅨⇨ ${xgame}˚ ${usedPrefix}pregunta *texto*
+⏤͟͟͞͞𓅨⇨ ${xgame}˚ ${usedPrefix}ttt *texto*
+⏤͟͟͞͞𓅨⇨ ${xgame}˚ ${usedPrefix}ptt *opción*
+⏤͟͟͞͞𓅨⇨ ${xgame}˚ ${usedPrefix}delttt
+⏤͟͟͞͞𓅨⇨ ${xgame}˚ ${usedPrefix}acertijo
+⏤͟͟͞͞𓅨⇨ ${xgame}˚ ${usedPrefix}trivia
 
 𓂂𓏸  𐅹੭੭   *\`𝖠𝗇ı𝗆ᧉ\`*  ${xanime} ᩚ꤬ᰨᰍ
-ര ׄ ${xanime}˚ ${usedPrefix}messi
-ര ׄ ${xanime}˚ ${usedPrefix}cr7
+⏤͟͟͞͞𓅨⇨ ${xanime}˚ ${usedPrefix}messi
+⏤͟͟͞͞𓅨⇨ ${xanime}˚ ${usedPrefix}cr7
 
 𓂂𓏸  𐅹੭੭   *\`𝖫ᨣ𝗀𑄙𝗌\`*  ${xlogos} ᩚ꤬ᰨᰍ
-ര ׄ ${xlogos}˚ ${usedPrefix}balogo *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logocorazon *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logochristmas  *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logopareja *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoglitch *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logosad *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logogaming *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logosolitario *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logodragonball *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoneon *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logogatito *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logochicagamer *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logonaruto *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logofuturista *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logonube *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoangel *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logomurcielago *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logocielo *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logograffiti3d *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logomatrix *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logohorror *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoalas *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoarmy *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logopubg *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logopubgfem *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logolol *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoamon *texto*gus
-ര ׄ ${xlogos}˚ ${usedPrefix}logovideopubg *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logovideotiger *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logovideointro *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logovideogaming *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoguerrero *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoportadaplayer *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoportadaff *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoportadapubg *texto*
-ര ׄ ${xlogos}˚ ${usedPrefix}logoportadacounter *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}balogo *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logocorazon *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logochristmas  *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logopareja *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoglitch *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logosad *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logogaming *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logosolitario *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logodragonball *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoneon *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logogatito *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logochicagamer *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logonaruto *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logofuturista *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logonube *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoangel *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logomurcielago *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logocielo *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logograffiti3d *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logomatrix *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logohorror *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoalas *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoarmy *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logopubg *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logopubgfem *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logolol *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoamon *texto*gus
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logovideopubg *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logovideotiger *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logovideointro *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logovideogaming *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoguerrero *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoportadaplayer *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoportadaff *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoportadapubg *texto*
+⏤͟͟͞͞𓅨⇨ ${xlogos}˚ ${usedPrefix}logoportadacounter *texto*
 
 𓂂𓏸  𐅹੭੭   *\`𝖦ıẜ𝗌-𝖭𝗌ẜɯ\`*  ${xnsfw} ᩚ꤬ᰨᰍ
-ര ׄ ${xnsfw}˚ ${usedPrefix}violar *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}follar *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}anal *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}coger *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}coger2 *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}penetrar *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}sexo *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}rusa *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}sixnine *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}pies *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}mamada *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}lickpussy *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}grabboobs *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}suckboobs *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}cum *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}fap *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}manosear *@tag*
-ര ׄ ${xnsfw}˚ ${usedPrefix}lesbianas *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}violar *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}follar *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}anal *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}coger *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}coger2 *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}penetrar *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}sexo *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}rusa *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}sixnine *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}pies *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}mamada *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}lickpussy *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}grabboobs *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}suckboobs *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}cum *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}fap *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}manosear *@tag*
+⏤͟͟͞͞𓅨⇨ ${xnsfw}˚ ${usedPrefix}lesbianas *@tag*
 
 𓂂𓏸  𐅹੭੭   *\`𝖲ƚ𝗂𝖼𝗄ᧉꭇ\`*  ${xsticker} ᩚ꤬ᰨᰍ
 ⏤͟͟͞͞𓅨⇨ ${xsticker}˚ ${usedPrefix}sticker *img*
