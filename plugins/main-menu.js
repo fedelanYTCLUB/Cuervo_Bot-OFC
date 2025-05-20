@@ -43,40 +43,40 @@ ${readMore}
 ㅤ ㅤ   乂 *ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs* 乂
 
 𓂂𓏸  𐅹੭੭   *\`Mᧉ𝗇𝗎𝗌\`*  ${xmenus} ᩚ꤬ᰨᰍ
-ര ׄ ${xmenus}˚ ${usedPrefix}menunsfw
-ര ׄ ${xmenus}˚ ${usedPrefix}menuaudios
-ര ׄ ${xmenus}˚ ${usedPrefix}menuff
-ര ׄ ${xmenus}˚ ${usedPrefix}menuowner
-ര ׄ ${xmenus}˚ ${usedPrefix}menulogos
+⏤͟͟͞͞𓅨⇨ ${xmenus}˚ ${usedPrefix}menunsfw
+⏤͟͟͞͞𓅨⇨ ${xmenus}˚ ${usedPrefix}menuaudios
+⏤͟͟͞͞𓅨⇨ ${xmenus}˚ ${usedPrefix}menuff
+⏤͟͟͞͞𓅨⇨ ${xmenus}˚ ${usedPrefix}menuowner
+⏤͟͟͞͞𓅨⇨ ${xmenus}˚ ${usedPrefix}menulogos
 
 𓂂𓏸  𐅹੭੭   *\`𝖨𝗇ẜᨣ\`*  ${xinfo} ᩚ꤬ᰨᰍ
-ര ׄ ${xinfo}˚ ${usedPrefix}totalf
-ര ׄ ${xinfo}˚ ${usedPrefix}grupos
-ര ׄ ${xinfo}˚ ${usedPrefix}sugerir
-ര ׄ ${xinfo}˚ ${usedPrefix}report
-ര ׄ ${xinfo}˚ ${usedPrefix}owner
-ര ׄ ${xinfo}˚ ${usedPrefix}ping
-ര ׄ ${xinfo}˚ ${usedPrefix}uptime
-ര ׄ ${xinfo}˚ ${usedPrefix}horario
-ര ׄ ${xinfo}˚ ${usedPrefix}precios
+⏤͟͟͞͞𓅨⇨ ${xinfo}˚ ${usedPrefix}totalf
+⏤͟͟͞͞𓅨⇨ ${xinfo}˚ ${usedPrefix}grupos
+⏤͟͟͞͞𓅨⇨ ${xinfo}˚ ${usedPrefix}sugerir
+⏤͟͟͞͞𓅨⇨ ${xinfo}˚ ${usedPrefix}report
+⏤͟͟͞͞𓅨⇨ ${xinfo}˚ ${usedPrefix}owner
+⏤͟͟͞͞𓅨⇨ ${xinfo}˚ ${usedPrefix}ping
+⏤͟͟͞͞𓅨⇨ ${xinfo}˚ ${usedPrefix}uptime
+⏤͟͟͞͞𓅨⇨ ${xinfo}˚ ${usedPrefix}horario
+⏤͟͟͞͞𓅨⇨ ${xinfo}˚ ${usedPrefix}precios
 
 𓂂𓏸  𐅹੭੭   *\`𝖮𝗇-𝖮ẜẜ\`*  ${xnable} ᩚ꤬ᰨᰍ
-ര ׄ ${xnable}˚ ${usedPrefix}enable *opción*
-ര ׄ ${xnable}˚ ${usedPrefix}disable *opción*
-ര ׄ ${xnable}˚ ${usedPrefix}on *opción*
-ര ׄ ${xnable}˚ ${usedPrefix}off *opción*
-ര ׄ ${xnable}˚ ${usedPrefix}manual
+⏤͟͟͞͞𓅨⇨ ${xnable}˚ ${usedPrefix}enable *opción*
+⏤͟͟͞͞𓅨⇨ ${xnable}˚ ${usedPrefix}disable *opción*
+⏤͟͟͞͞𓅨⇨ ${xnable}˚ ${usedPrefix}on *opción*
+⏤͟͟͞͞𓅨⇨ ${xnable}˚ ${usedPrefix}off *opción*
+⏤͟͟͞͞𓅨⇨ ${xnable}˚ ${usedPrefix}manual
 
 𓂂𓏸  𐅹੭੭   *\`𝖣ᨣ𝗐𝗇𝗅ᨣ𝖺𝖽\`* ${xdownload} ᩚ꤬ᰨᰍ
-ര ׄ ${xdownload}˚ ${usedPrefix}play *texto*
-ര ׄ ${xdownload}˚ ${usedPrefix}aplay *texto*
-ര ׄ ${xdownload}˚ ${usedPrefix}aplay2 *texto*
-ര ׄ ${xdownload}˚ ${usedPrefix}splay *texto*
-ര ׄ ${xdownload}˚ ${usedPrefix}ytmp4doc *texto*
-ര ׄ ${xdownload}˚ ${usedPrefix}ytmp3doc *texto*
-ര ׄ ${xdownload}˚ ${usedPrefix}apk *texto*
-ര ׄ ${xdownload}˚ ${usedPrefix}aptoide *texto*
-ര ׄ ${xdownload}˚ ${usedPrefix}modapk *texto*
+⏤͟͟͞͞𓅨⇨ ${xdownload}˚ ${usedPrefix}play *texto*
+⏤͟͟͞͞𓅨⇨ ${xdownload}˚ ${usedPrefix}aplay *texto*
+⏤͟͟͞͞𓅨⇨ ${xdownload}˚ ${usedPrefix}aplay2 *texto*
+⏤͟͟͞͞𓅨⇨ ${xdownload}˚ ${usedPrefix}splay *texto*
+⏤͟͟͞͞𓅨⇨ ${xdownload}˚ ${usedPrefix}ytmp4doc *texto*
+⏤͟͟͞͞𓅨⇨ ${xdownload}˚ ${usedPrefix}ytmp3doc *texto*
+⏤͟͟͞͞𓅨⇨ ${xdownload}˚ ${usedPrefix}apk *texto*
+⏤͟͟͞͞𓅨⇨ ${xdownload}˚ ${usedPrefix}aptoide *texto*
+⏤͟͟͞͞𓅨⇨ ${xdownload}˚ ${usedPrefix}modapk *texto*
 ര ׄ ${xdownload}˚ ${usedPrefix}pinterest *texto*
 ര ׄ ${xdownload}˚ ${usedPrefix}capcut *url*
 ര ׄ ${xdownload}˚ ${usedPrefix}pindl *url*
