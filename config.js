@@ -8,18 +8,15 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-   ['51927238856', 'Dev.Criss', true],
-   ['51953857556', 'Shadow', true],
-   ['5493865536185', 'Kenisawa (Colab)', false],
-   ['56940074825', 'Undefined', false]
+   ['5491156178758', 'fedelanYT', true],
 ]
 
 global.creadorbot = [
-   ['51927238856', 'Cristian Escobar', true]
+   ['5491156178758', 'fedelanYT', true]
 ]
 
-global.mods = ['51990841568', '51953587566']
-global.prems = ['51965911060']
+global.mods = ['5491156178758', '5491156178758']
+global.prems = ['5491156178758']
 
 
 global.packname = 'ShadowUtra'
