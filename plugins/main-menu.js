@@ -43,7 +43,7 @@ ${readMore}
 ㅤ ㅤ   乂 *ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs* 乂
 
 𓂂𓏸  𐅹੭੭   *\`Mᧉ𝗇𝗎𝗌\`*  ${xmenus} ᩚ꤬ᰨᰍ
-⏤͟͟͞͞𓅨⇨ ${xmenus}˚ ${usedPrefix}menunsfw
+⏤͟͟͞͞𓅨⇨˚ ${usedPrefix}menunsfw
 ⏤͟͟͞͞𓅨⇨ ${xmenus}˚ ${usedPrefix}menuaudios
 ⏤͟͟͞͞𓅨⇨ ${xmenus}˚ ${usedPrefix}menuff
 ⏤͟͟͞͞𓅨⇨ ${xmenus}˚ ${usedPrefix}menuowner
